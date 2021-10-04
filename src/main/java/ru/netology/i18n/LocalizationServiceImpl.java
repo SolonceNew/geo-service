@@ -10,6 +10,7 @@ public class LocalizationServiceImpl implements LocalizationService {
                 return "Добро пожаловать";
             default:
                 return "Welcome";
+
         }
     }
 }
